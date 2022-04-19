@@ -1,5 +1,5 @@
 # Iterative DNS Resolver
-An iterative DNS resolver program for USD COMP 375 Networking class, and it mimics the command line tool ```dig```.
+An iterative DNS resolver program that mimics the command line tool ```dig```.
 
 DNS is an acroymn for Domain Name System which is the process of mapping a canonical name such as 'github.com' to an IP, an address your computer understands. Your computer handles domain name resolution behind the scenes every time you type in 'google.com' into your web browser - this program is meant to replicate that process.
 
